@@ -1,0 +1,15 @@
+.mat-card{
+  min-width: 95%;
+  min-height: 1200px;
+  background: #fbfbfb;
+}
+
+.example-form {
+  min-width: 250px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 73%;
+}

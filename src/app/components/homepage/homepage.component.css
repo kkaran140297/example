@@ -1,0 +1,14 @@
+mat-card{
+    min-width: 95%;
+    min-height: 1200px;
+    background: transparent;
+  }
+
+  .example-button {
+    position: absolute;
+    width: 260px;
+    top: 10;
+    bottom: 1180px;
+    left: 1070px;
+    right: 0;
+  }

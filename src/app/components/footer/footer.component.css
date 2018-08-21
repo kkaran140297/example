@@ -1,0 +1,10 @@
+.example-card {
+    max-height: 250px;
+    background: rgb(126, 173, 204);
+}
+
+.mat-card-image {
+    max-height: 400px;
+    max-width: 90%;
+}
+
